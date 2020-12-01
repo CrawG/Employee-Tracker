@@ -1,5 +1,5 @@
 {
-    "name": "Employee-Tracker",
+    "name": "employee_tracker",
     "version": "1.0.0",
     "description": "Week 12 Homework Employee Tracker",
     "main": "server.js",
@@ -9,7 +9,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/CrawG/Employee-Tracker"
+        "url": "https://github.com/CrawG/Employee-Tracker"
     },
     "keywords": [],
     "author": "",
@@ -20,7 +20,6 @@
     "homepage": "https://github.com/CrawG/Employee-Tracker/tree/main",
     "dependencies": {
         "asciiart-logo": "^0.2.6",
-        "console.table": "^0.10.0",
         "inquirer": "^7.0.1",
         "mysql": "^2.17.1"
     }
